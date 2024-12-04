@@ -1,0 +1,15 @@
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.AssemblyReference.cache
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.ResolveComReference.cache
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.Instruction.resources
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.NewSelectForm.resources
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.Playformwith_1player.resources
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.Properties.Resources.resources
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.SelectPlayer.resources
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.GenerateResource.cache
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.CoreCompileInputs.cache
+C:\Users\bong\source\repos\Pikachu\Pikachu\bin\Debug\Pikachu.exe.config
+C:\Users\bong\source\repos\Pikachu\Pikachu\bin\Debug\Pikachu.exe
+C:\Users\bong\source\repos\Pikachu\Pikachu\bin\Debug\Pikachu.pdb
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.exe
+C:\Users\bong\source\repos\Pikachu\Pikachu\obj\Debug\Pikachu.pdb
